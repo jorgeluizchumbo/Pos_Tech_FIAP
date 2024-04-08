@@ -24,13 +24,11 @@ Os dados foram obtidos por meio de uma query em SQL dentro do Google Big Query. 
 
 [https://br.investing.com/indices/bovespa-historical-data](https://basedosdados.org/dataset/c747a59f-b695-4d19-82e4-fef703e74c17?table=5894e1ac-dc08-465d-91a3-703683da85ba)
 ### Construção do Banco
-Aqui falaremos sobre as premissas e a construção do banco de dados.
+Aqui trataremos sobre as premissas, a arquitetura e construção do banco de dados.
 ## Apresentação dos Dados
 Nesta seção iremos observar de forma geral os dados.
 ## Análise Exploratória dos Dados
 Este tópico contém a análise exploratória dos dados. Esta análise visa explicar o comportamento das pessoas que apresentaram sintomas da COVID-19 e das que não apresentaram, assim como suas características sociais e econômicas.
-## Próximos Passos
-Como próximos passos deste estudo podemos sugerir uma análise com outras técnicas como o deep learnig e redes neurais. Podemos até realizar análises diferentes de correlação entre os dados e verificar se existem outros fatores, talvez externos, que influenciam no valor de fechamento do índice Bovespa e como podemos englobar isso em um modelo a fim de melhorar mais ainda as previsões.
 ## Conclusão
 Uma breve conclusão sobre o presente estudo e sugestões de quais indicadores podem ser explorados caso ocorra um novo surto de COVID-19.
 ## Referências
